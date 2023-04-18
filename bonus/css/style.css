@@ -8,6 +8,10 @@ body{
     font-family: 'Rubik Mono One', sans-serif;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+  
 
 /* MAIN */
 /* SEZIONE LINK NUMERI */
